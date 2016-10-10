@@ -35,12 +35,11 @@ URL : http://localhost:8080/
 11. 이영범/ yb/ https://github.com/youngbeomrhee
 12. 김정환 / jeonghwan / https://github.com/jeonghwan-kim/
 13. 김광민/ ambrosia/ https://github.com/ambrosiak
-14. 류지환/ jeewhan/ https://github.com/Eclatant
-15. 송헌용/ sejongin/ https://github.com/apple77y
-16. 박정춘/ unlimitedfocus/ https://github.com/unlimitedfocus
-17. 이동근/ ddanggle.y/ https://github.com/DDanggle
-18. 조대상/ cho/ https://github.com/cdsleaf
-19. 김민정/ minjeongkim/ https://github.com/mj111
-20. 김태완/ taewanme/ https://github.com/taewanme
-21. 오명운/ hanmomhanda/ https://github.com/hanmomhanda
-22. 오재용/ obsecure/ https://github.com/matobsecure
+14. 송헌용/ sejongin/ https://github.com/apple77y
+15. 박정춘/ unlimitedfocus/ https://github.com/unlimitedfocus
+16. 이동근/ ddanggle.y/ https://github.com/DDanggle
+17. 조대상/ cho/ https://github.com/cdsleaf
+18. 김민정/ minjeongkim/ https://github.com/mj111
+19. 김태완/ taewanme/ https://github.com/taewanme
+20. 오명운/ hanmomhanda/ https://github.com/hanmomhanda
+21. 오재용/ obsecure/ https://github.com/matobsecure
