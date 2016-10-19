@@ -27,7 +27,6 @@ URL : http://localhost:8080/
 1.  |맹기완| hika00| https://github.com/hikaMaeng  
 2.  |박수석| david| https://github.com/chiyodad  
 3.  |박관웅| kwanung| https://github.com/pouu69  
-4.  |이웅재| 2woongjae| https://github.com/2woongjae  
 5.  |정재남| gomugom | https://github.com/gomugom  
 6.  |진영화| jinyounghwa | https://github.com/jinyounghwa  
 7.  |허남진| oxizen | https://github.com/oxizen  
@@ -42,5 +41,4 @@ URL : http://localhost:8080/
 16. |조대상| cho | https://github.com/cdsleaf  
 17. |김민정| minjeongkim | https://github.com/mj111  
 18. |김태완| taewanme | https://github.com/taewanme  
-19. |오명운| hanmomhanda | https://github.com/hanmomhanda  
 20. |오재용| obsecure | https://github.com/matobsecure  
